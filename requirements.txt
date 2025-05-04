@@ -14,3 +14,4 @@ faiss-cpu
 langchain_groq
 altair== 4.2.2
 langchain_huggingface
+langchain_chroma
